@@ -1,3 +1,1 @@
-# Semester-Projects
-
-I'll be keeping all my semester projects here
+Every Semester projects that we did

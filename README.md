@@ -16,8 +16,6 @@ This project aims to develop a machine learning model to predict whether a breas
 
 #### Files
 - `breast_cancer_prediction.ipynb`: Code implementation.
-- `data/`: Dataset files.
-- `results/`: Model performance metrics and visualizations.
 
 ### 2. Document-Based Question Answering System Using LangChain
 #### Objective
@@ -31,8 +29,6 @@ Developed a question-answering system that retrieves answers from a set of docum
 
 #### Files
 - `doc_qa_system.ipynb`: Code for the system.
-- `documents/`: Sample documents used for testing.
-- `readme.md`: Details about setting up and using the system.
 
 ### 3. Dimensionality Reduction Techniques in Machine Learning: A Comparative Analysis of LDA, PCA, t-SNE, UMAP
 #### Objective
@@ -45,14 +41,12 @@ Conducted a comparative analysis of dimensionality reduction techniques to under
 - **Skills**: Data visualization, high-dimensional data analysis.
 
 #### Files
-- `dimensionality_reduction_analysis.ipynb`: Code for implementation and visualization.
-- `data/`: Multidimensional datasets used in the analysis.
-- `results/`: Plots and comparative metrics.
+- `mnist.ipynb`: Code for implementation and visualization of data from mnist.
 
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/semester-projects.git
+   git clone https://github.com/sansritaulak/Semester-Projects.git
    ```
 2. Navigate to the desired project folder.
 3. Follow the instructions in the respective README files or Jupyter notebooks.

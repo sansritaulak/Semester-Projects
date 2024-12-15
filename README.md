@@ -41,7 +41,7 @@ Conducted a comparative analysis of dimensionality reduction techniques to under
 - **Skills**: Data visualization, high-dimensional data analysis.
 
 #### Files
-- `mnist.ipynb`: Code for implementation and visualization of data from mnist.
+- `MNIST.ipynb`: Code for implementation and visualization of data from MNIST.
 
 ## Getting Started
 1. Clone this repository:
